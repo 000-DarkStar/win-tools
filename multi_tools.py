@@ -136,11 +136,11 @@ name_tool = "Azoth"
 version_tool = "1.1"
 coding_tool = "Python 3"
 language_tool = "EN"
-creator = "LEo"
+creator = "RH8"
 platform = "Windows 10/11 & Linux"
 website = "soon.."
 github_tool = "soon.."
-license = "https://github.com/loxyteck/RedTiger-Tools/blob/main/LICENSE"
+license = "JUL en Y"
 copyright = "Copyright (c) Azxth 'LICENSE'"
           ''')
     timeout=5
